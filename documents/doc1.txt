@@ -1,0 +1,17 @@
+Introduction to Artificial Intelligence
+
+Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems.
+AI enables machines to learn from experience, adjust to new inputs, and perform human-like tasks.
+Key applications of AI include expert systems, natural language processing, speech recognition, and machine vision.
+
+AI is broadly categorized into two types: Narrow AI and General AI.
+Narrow AI is designed to perform a specific task, such as facial recognition or internet searches.
+General AI, also called Artificial General Intelligence (AGI), refers to machines that can perform any intellectual task a human can.
+
+Machine learning is a subset of AI that gives systems the ability to automatically learn and improve from experience.
+Deep learning is a further subset of machine learning that uses neural networks with many layers.
+AI is transforming industries such as healthcare, finance, transportation, and education.
+
+The history of AI dates back to the 1950s when Alan Turing proposed the Turing Test as a measure of machine intelligence.
+Today, AI is used in self-driving cars, recommendation systems, chatbots, and robotic automation.
+Ethical concerns around AI include bias in algorithms, job displacement, and the challenge of ensuring safe and transparent systems.

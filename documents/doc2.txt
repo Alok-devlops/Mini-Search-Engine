@@ -1,0 +1,21 @@
+Machine Learning Fundamentals
+
+Machine learning (ML) is a branch of artificial intelligence that focuses on building systems that learn from data.
+Instead of being explicitly programmed, ML algorithms use statistical techniques to identify patterns in data.
+Supervised learning, unsupervised learning, and reinforcement learning are the three main types of machine learning.
+
+In supervised learning, the model is trained on labeled data, meaning each input has a known correct output.
+Common supervised learning algorithms include linear regression, logistic regression, decision trees, and support vector machines.
+Unsupervised learning deals with unlabeled data and tries to find hidden patterns or intrinsic structures.
+
+Clustering and dimensionality reduction are popular unsupervised learning techniques.
+K-means clustering and principal component analysis (PCA) are widely used unsupervised methods.
+Reinforcement learning involves an agent learning to make decisions by interacting with an environment to maximize cumulative reward.
+
+Training a machine learning model requires a dataset, a loss function, and an optimization algorithm.
+Overfitting occurs when a model learns the training data too well and performs poorly on unseen data.
+Techniques like cross-validation, regularization, and dropout are used to prevent overfitting.
+
+Machine learning is used in spam detection, image recognition, fraud detection, recommendation engines, and medical diagnosis.
+Feature engineering is the process of transforming raw data into features that better represent the underlying problem to the model.
+Model evaluation metrics include accuracy, precision, recall, F1-score, and area under the ROC curve (AUC).

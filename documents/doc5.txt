@@ -1,0 +1,21 @@
+Data Science and Big Data Technologies
+
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
+Data scientists use a combination of statistics, mathematics, programming, and domain expertise to analyze and interpret complex data.
+The data science lifecycle includes problem definition, data collection, data preprocessing, exploratory analysis, modeling, evaluation, and deployment.
+
+Big data refers to datasets that are too large or complex for traditional data processing tools to handle.
+The three Vs of big data are Volume, Velocity, and Variety.
+Volume refers to the massive amount of data generated every day from social media, IoT devices, transactions, and sensors.
+
+Apache Hadoop is an open-source framework for distributed storage and processing of big data using the MapReduce programming model.
+Apache Spark is a fast, in-memory data processing engine that is widely used for big data analytics and machine learning pipelines.
+NoSQL databases such as MongoDB, Cassandra, and Redis are designed to handle unstructured and semi-structured data at scale.
+
+Data visualization is the graphical representation of data to help humans understand trends, patterns, and outliers.
+Tools like Tableau, Power BI, and Python libraries such as Matplotlib, Seaborn, and Plotly are used for data visualization.
+Data preprocessing steps include handling missing values, encoding categorical variables, feature scaling, and outlier detection.
+
+Cloud computing platforms such as AWS, Google Cloud, and Microsoft Azure provide scalable infrastructure for data storage, processing, and machine learning.
+Data pipelines automate the flow of data from source systems to destinations such as data warehouses and analytics platforms.
+Privacy and data governance are increasingly important as organizations collect and process sensitive personal information.
